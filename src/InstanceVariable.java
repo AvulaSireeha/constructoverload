@@ -3,8 +3,11 @@
 
     public InstanceVariable(String name) {
         this.name = name;
-    public String fatherName;
-
+        public String fatherName;
 
     public InstanceVariable(String fatherName) {
-        this.fatherName = fatherName;
+            this.fatherName = fatherName;
+
+        }
+    }
+
