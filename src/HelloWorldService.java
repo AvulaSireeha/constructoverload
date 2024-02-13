@@ -11,4 +11,7 @@ public class HelloWorldService {
     }
 
     System.out.println("Service name");
+    HelloWorldService helloWorldService=new HelloWorldService();
+    System.out.println("Stash Changes");
+
 }
